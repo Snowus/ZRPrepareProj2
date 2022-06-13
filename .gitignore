@@ -1,3 +1,3 @@
-node_modules
-package-lock.json
-.env
+./bezkoder-app/node_modules
+./bezkoder-app/package-lock.json
+./bezkoder-app/env
